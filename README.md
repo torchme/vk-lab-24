@@ -62,7 +62,7 @@ VKLAB/
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/your-username/vklab.git
+   git clone https://github.com/torchme/vklab.git
    ```
 
 2. Установите зависимости:
