@@ -38,7 +38,8 @@
 ```
 VKLAB/
 ├── notebooks/
-│   └── EDA.ipynb
+│   └── EDA.ipynb # EDA + CatBoost
+│   └── NNS.ipynb # NNs
 ├── data/
 │   ├── dataset.csv
 │   ├── embeddings/
