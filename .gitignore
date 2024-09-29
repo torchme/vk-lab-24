@@ -2,3 +2,11 @@
 
 #
 *.csv
+/catboost_info
+/.ruff_cache
+/__pycache__
+
+data/*
+models/*
+/src/__pycache__
+/wandb
